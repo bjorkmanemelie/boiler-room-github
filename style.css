@@ -1,3 +1,5 @@
+
+
 /* Hero */
 .hero {
   padding: 6rem 1rem 4rem;
@@ -12,3 +14,10 @@
   border: none; border-radius: 999px; padding: 0.6rem 1rem; text-decoration: none;
 }
 .btn:hover { background: #c08a60; }
+
+
+.navbar{
+  background-color: aquamarine;
+  color:azure;
+  border: 2px solid blue;
+}
